@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "pryOpenBootCampN1/1.0.0": {
+        "runtime": {
+          "pryOpenBootCampN1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pryOpenBootCampN1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

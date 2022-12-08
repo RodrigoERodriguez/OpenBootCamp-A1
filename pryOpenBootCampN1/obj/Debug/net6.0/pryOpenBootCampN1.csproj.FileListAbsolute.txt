@@ -1,0 +1,15 @@
+C:\Users\rodri\OneDrive\Escritorio\OpenBootCamp\pryOpenBootCampN1\bin\Debug\net6.0\pryOpenBootCampN1.exe
+C:\Users\rodri\OneDrive\Escritorio\OpenBootCamp\pryOpenBootCampN1\bin\Debug\net6.0\pryOpenBootCampN1.deps.json
+C:\Users\rodri\OneDrive\Escritorio\OpenBootCamp\pryOpenBootCampN1\bin\Debug\net6.0\pryOpenBootCampN1.runtimeconfig.json
+C:\Users\rodri\OneDrive\Escritorio\OpenBootCamp\pryOpenBootCampN1\bin\Debug\net6.0\pryOpenBootCampN1.dll
+C:\Users\rodri\OneDrive\Escritorio\OpenBootCamp\pryOpenBootCampN1\bin\Debug\net6.0\pryOpenBootCampN1.pdb
+C:\Users\rodri\OneDrive\Escritorio\OpenBootCamp\pryOpenBootCampN1\obj\Debug\net6.0\pryOpenBootCampN1.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\OpenBootCamp\pryOpenBootCampN1\obj\Debug\net6.0\pryOpenBootCampN1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Escritorio\OpenBootCamp\pryOpenBootCampN1\obj\Debug\net6.0\pryOpenBootCampN1.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\OpenBootCamp\pryOpenBootCampN1\obj\Debug\net6.0\pryOpenBootCampN1.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Escritorio\OpenBootCamp\pryOpenBootCampN1\obj\Debug\net6.0\pryOpenBootCampN1.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\OpenBootCamp\pryOpenBootCampN1\obj\Debug\net6.0\pryOpenBootCampN1.dll
+C:\Users\rodri\OneDrive\Escritorio\OpenBootCamp\pryOpenBootCampN1\obj\Debug\net6.0\refint\pryOpenBootCampN1.dll
+C:\Users\rodri\OneDrive\Escritorio\OpenBootCamp\pryOpenBootCampN1\obj\Debug\net6.0\pryOpenBootCampN1.pdb
+C:\Users\rodri\OneDrive\Escritorio\OpenBootCamp\pryOpenBootCampN1\obj\Debug\net6.0\pryOpenBootCampN1.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Escritorio\OpenBootCamp\pryOpenBootCampN1\obj\Debug\net6.0\ref\pryOpenBootCampN1.dll

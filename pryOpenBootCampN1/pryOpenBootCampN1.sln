@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pryOpenBootCampN1", "pryOpenBootCampN1.csproj", "{27CF4017-E28F-4A95-9348-0ABCC76B046A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27CF4017-E28F-4A95-9348-0ABCC76B046A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CF4017-E28F-4A95-9348-0ABCC76B046A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CF4017-E28F-4A95-9348-0ABCC76B046A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CF4017-E28F-4A95-9348-0ABCC76B046A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9EB0390-A884-416D-82A0-656CA0514CCF}
+	EndGlobalSection
+EndGlobal
